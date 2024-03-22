@@ -1,0 +1,19 @@
+FOR BLACKJACK
+    /*
+    Steps:
+        Print the rules
+        Gets users and their wager amounts
+        Have the dealer deal every player 2 cards to start
+        During a player's turn
+            - Reveal every player's (including the dealer's) first card
+            - Get if the user or deal has blackjack or busted
+            - Count an ace as 11 until the user has > 21 at which point change the ace to a 1
+            - Ask if they wish to hit
+                - if not end the user's turn
+        During a dealer's turn
+            - Hit until hand total >= 16
+            - Check for blackjack or bust
+        Check winner
+        Payout
+        Ask if user wants to play again
+     */

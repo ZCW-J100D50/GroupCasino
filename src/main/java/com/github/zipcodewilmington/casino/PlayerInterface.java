@@ -1,5 +1,7 @@
 package com.github.zipcodewilmington.casino;
 
+import com.github.zipcodewilmington.casino.Accounts.CasinoAccount;
+
 /**
  * Created by leon on 7/21/2020.
  * All players of a game should abide by `PlayerInterface`.
